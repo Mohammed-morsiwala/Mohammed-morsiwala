@@ -1,69 +1,103 @@
-# 👋 Hi, I’m Mohammed Morsi
+# 👋 Hi, I'm Mohammed Morsi
+**ETL Developer | PL/SQL Specialist | Data Pipeline Architect**
 
-**Frontend Developer | React & Next.js Specialist | UI Craftsman**
-
-Welcome to my GitHub! I’m passionate about building sleek, responsive, and user-centric web interfaces. I turn designs into pixel-perfect, interactive experiences — powered by clean code and thoughtful design.
-
+Welcome to my GitHub! I'm passionate about designing robust data pipelines, optimizing database performance, and transforming raw data into valuable business insights. I build scalable ETL solutions that power data-driven decision making.
 
 ## 🚀 About Me
-
-- 💡 **Code Enthusiast** – I believe clean code and creative UI/UX go hand in hand.
-- 📚 **Lifelong Learner** – Always exploring new tools, frameworks, and performance best practices.
-
-
+- 💡 **Data Enthusiast** – I believe efficient data processing and clean database design are the foundation of successful analytics.
+- 📚 **Lifelong Learner** – Always exploring new ETL tools, database optimization techniques, and data engineering best practices.
+- 🔧 **Problem Solver** – I enjoy tackling complex data challenges and creating elegant solutions for data integration.
 
 ## 💻 Tech Stack
 
-## 🛠 Languages & Tools
+### 🗄️ Databases & SQL
 <p align="left">
-  <a href="https://www.w3.org/html/" rel="nofollow">
-    <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+  <a href="https://www.oracle.com/database/" rel="nofollow">
+    <img alt="Oracle" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" rel="nofollow">
-    <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+  <a href="https://www.postgresql.org/" rel="nofollow">
+    <img alt="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-    <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+  <a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow">
+    <img alt="SQL Server" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   </a>&nbsp;
-  <a href="https://reactjs.org/" rel="nofollow">
-    <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-  </a>&nbsp;
-  <a href="https://nextjs.org/" rel="nofollow">
-    <img alt="Next.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
-  </a>&nbsp;
-  <a href="https://tailwindcss.com/" rel="nofollow">
-    <img alt="Tailwind CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
-  </a>&nbsp;
-  <a href="https://git-scm.com/" rel="nofollow">
-    <img alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-  </a>&nbsp;
-  <a href="https://github.com/" rel="nofollow">
-    <img alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+  <a href="https://www.mysql.com/" rel="nofollow">
+    <img alt="MySQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </a>
 </p>
 
-## 🧰 Tools I Use
+### 🔄 ETL Tools & Technologies
 <p align="left">
+  <a href="https://www.talend.com/" rel="nofollow">
+    <img alt="Talend" width="40" height="40" src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" />
+  </a>&nbsp;
+  <a href="https://docs.microsoft.com/en-us/sql/integration-services/" rel="nofollow">
+    <img alt="SSIS" width="40" height="40" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" />
+  </a>&nbsp;
+  <a href="https://airflow.apache.org/" rel="nofollow">
+    <img alt="Apache Airflow" width="40" height="40" src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji.png" />
+  </a>&nbsp;
+  <a href="https://spark.apache.org/" rel="nofollow">
+    <img alt="Apache Spark" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
+  </a>
+</p>
+
+### 🐍 Programming Languages
+<p align="left">
+  <a href="https://www.python.org/" rel="nofollow">
+    <img alt="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  </a>&nbsp;
+  <a href="https://docs.oracle.com/en/database/oracle/oracle-database/" rel="nofollow">
+    <img alt="PL/SQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  </a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/SQL" rel="nofollow">
+    <img alt="SQL" width="40" height="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
+  </a>&nbsp;
+  <a href="https://www.r-project.org/" rel="nofollow">
+    <img alt="R" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  </a>
+</p>
+
+## 🧰 Development Tools
+<p align="left">
+  <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="SQL Developer" width="40" height="40"/>
+  </a>
+  <a href="https://dbeaver.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="DBeaver" width="40" height="40"/>
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
 </p>
 
+## 🎯 Core Competencies
+- **PL/SQL Development** – Stored procedures, functions, packages, triggers, and complex queries
+- **ETL Pipeline Design** – End-to-end data extraction, transformation, and loading processes
+- **Data Warehousing** – Dimensional modeling, star schema, and data mart design
+- **Database Optimization** – Query tuning, indexing strategies, and performance enhancement
+- **Data Quality & Validation** – Implementing robust data validation and cleansing processes
+- **Batch Processing** – Designing and managing large-scale data processing jobs
 
-## 📫 Let’s Connect
+## 📈 What I Do
+- Design and implement scalable ETL processes for enterprise data warehouses
+- Write optimized PL/SQL code for complex business logic and data transformations
+- Build automated data pipelines that ensure data accuracy and timeliness
+- Optimize database performance through query tuning and architectural improvements
+- Create comprehensive data validation frameworks to maintain data integrity
 
-I'm always open to collaborating on exciting projects, learning new things, or just talking about the latest in frontend dev!
+## 📫 Let's Connect
+I'm always open to discussing data challenges, sharing ETL best practices, or collaborating on exciting data projects!
 
 - 📧 Email: [mohd.morsi153@gmail.com](mailto:mohd.morsi153@gmail.com)  
 - 🔗 LinkedIn: https://www.linkedin.com/in/mohammedmorsi16/
 
-
-> *"Code is poetry — and I love writing beautiful stories."*
+> *"Data is the new oil — and I love refining it into insights."*
 
 Thanks for stopping by! 🌟

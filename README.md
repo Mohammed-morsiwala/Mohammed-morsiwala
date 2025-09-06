@@ -53,9 +53,6 @@ Welcome to my GitHub! I'm passionate about designing robust data pipelines, opti
   <a href="https://en.wikipedia.org/wiki/SQL" rel="nofollow">
     <img alt="SQL" width="40" height="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
   </a>&nbsp;
-  <a href="https://www.r-project.org/" rel="nofollow">
-    <img alt="R" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  </a>
 </p>
 
 ## 🧰 Development Tools
@@ -71,9 +68,6 @@ Welcome to my GitHub! I'm passionate about designing robust data pipelines, opti
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
 </p>
 
